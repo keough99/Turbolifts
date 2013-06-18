@@ -33,7 +33,7 @@ import cpw.mods.fml.relauncher.Side;
 
 import lesmothian.turbolifts.net.ITurboliftsProxy;
 
-@Mod(modid = TurboliftsCore.modId, name = TurboliftsCore.modName, version = TurboliftsCore.version, dependencies = "after:BuildCraft|Core;after:BuildCraft|Factory;after:BuildCraft|Energy;after:BuildCraft|Builders;after:BuildCraft|Transport;after:IC2")
+@Mod(modid = TurboliftsCore.modId, name = TurboliftsCore.modName, version = TurboliftsCore.version, dependencies = "after:BuildCraft|Core;after:BuildCraft|Energy;after:BuildCraft|Transport;after:IC2")
 @NetworkMod(clientSideRequired = true, serverSideRequired = false)
 public class TurboliftsCore
 {
