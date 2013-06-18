@@ -1,18 +1,22 @@
 [
-    {
-        "name": "Turbolifts", 
-        "parent": "", 
-        "url": "", 
-        "logoFile": "", 
-        "updateUrl": "", 
-        "credits": "Josh Lindsey <joshua.s.lindsey@gmail.com>", 
-        "version": "0.0.1",
-        "authors": [
-            "Lesmothian"
-        ], 
-        "mcversion": "1.4.7", 
-        "screenshots": [], 
-        "dependencies": [], 
-        "description": "Deck 6, engage."
-    }
+  {
+    "name": "Turbolifts",
+    "parent": "",
+    "url": "",
+    "logoFile": "",
+    "updateUrl": "",
+    "credits": "Josh Lindsey <joshua.s.lindsey@gmail.com>",
+    "version": "0.0.1",
+    "authors": [
+      "Lesmothian"
+    ],
+    "mcversion": "1.4.7",
+    "screenshots": [
+
+    ],
+    "dependencies": [
+
+    ],
+    "description": "Deck 6, engage."
+  }
 ]
