@@ -1,21 +1,22 @@
 [
   {
+    "modid": "Turbolifts",
     "name": "Turbolifts",
+    "description": "Omnidirectional lifts!",
     "parent": "",
-    "url": "",
+    "url": "https://github.com/jlindsey/Turbolifts#readme",
     "logoFile": "",
     "updateUrl": "",
-    "credits": "Josh Lindsey <joshua.s.lindsey@gmail.com>",
     "version": "0.0.1",
     "authors": [
       "Lesmothian"
     ],
-    "mcversion": "1.4.7",
+    "mcversion": "",
     "screenshots": [
 
     ],
     "dependencies": [
-
+        "mod_MinecraftForge"
     ],
     "description": "Deck 6, engage."
   }
