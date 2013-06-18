@@ -231,7 +231,11 @@
 
   </target>
 
-  <target name="clean" >
+  <target name="clean">
     <delete dir="${build.dir}" />
+  </target>
+
+  <target name="distclean" depends="clean">
+    <delete dir="${download.dir}" />
   </target>
 </project>
